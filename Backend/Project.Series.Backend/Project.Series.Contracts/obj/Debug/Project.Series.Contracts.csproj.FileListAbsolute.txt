@@ -1,6 +1,0 @@
-D:\Users\Antonio\Desktop\series\Backend\Project.Series.Backend\Project.Series.Contracts\bin\Debug\Project.Series.Contracts.dll
-D:\Users\Antonio\Desktop\series\Backend\Project.Series.Backend\Project.Series.Contracts\bin\Debug\Project.Series.Contracts.pdb
-D:\Users\Antonio\Desktop\series\Backend\Project.Series.Backend\Project.Series.Contracts\obj\Debug\Project.Series.Contracts.csprojResolveAssemblyReference.cache
-D:\Users\Antonio\Desktop\series\Backend\Project.Series.Backend\Project.Series.Contracts\obj\Debug\Project.Series.Contracts.csproj.CoreCompileInputs.cache
-D:\Users\Antonio\Desktop\series\Backend\Project.Series.Backend\Project.Series.Contracts\obj\Debug\Project.Series.Contracts.dll
-D:\Users\Antonio\Desktop\series\Backend\Project.Series.Backend\Project.Series.Contracts\obj\Debug\Project.Series.Contracts.pdb
