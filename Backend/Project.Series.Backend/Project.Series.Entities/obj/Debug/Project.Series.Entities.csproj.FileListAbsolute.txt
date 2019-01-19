@@ -1,0 +1,10 @@
+D:\Users\Antonio\Desktop\series\Backend\Project.Series.Backend\Project.Series.Entities\bin\Debug\Project.Series.Entities.dll
+D:\Users\Antonio\Desktop\series\Backend\Project.Series.Backend\Project.Series.Entities\bin\Debug\Project.Series.Entities.pdb
+D:\Users\Antonio\Desktop\series\Backend\Project.Series.Backend\Project.Series.Entities\obj\Debug\Project.Series.Entities.csprojResolveAssemblyReference.cache
+D:\Users\Antonio\Desktop\series\Backend\Project.Series.Backend\Project.Series.Entities\obj\Debug\Project.Series.Entities.csproj.CoreCompileInputs.cache
+D:\Users\Antonio\Desktop\series\Backend\Project.Series.Backend\Project.Series.Entities\obj\Debug\Project.Series.Entities.dll
+D:\Users\Antonio\Desktop\series\Backend\Project.Series.Backend\Project.Series.Entities\obj\Debug\Project.Series.Entities.pdb
+D:\Users\Antonio\Desktop\series\Backend\Project.Series.Backend\Project.Series.Entities\bin\Debug\Project.Series.Entities.dll.config
+D:\Users\Antonio\Desktop\series\Backend\Project.Series.Backend\Project.Series.Entities\bin\Debug\EntityFramework.dll
+D:\Users\Antonio\Desktop\series\Backend\Project.Series.Backend\Project.Series.Entities\bin\Debug\EntityFramework.xml
+D:\Users\Antonio\Desktop\series\Backend\Project.Series.Backend\Project.Series.Entities\obj\Debug\Project.Series.Entities.csproj.CopyComplete
