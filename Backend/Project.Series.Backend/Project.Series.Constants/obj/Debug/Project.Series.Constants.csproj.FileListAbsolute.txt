@@ -1,0 +1,6 @@
+D:\Users\Antonio\Desktop\series\Backend\Project.Series.Backend\Project.Series.Constants\bin\Debug\Project.Series.Constants.dll
+D:\Users\Antonio\Desktop\series\Backend\Project.Series.Backend\Project.Series.Constants\bin\Debug\Project.Series.Constants.pdb
+D:\Users\Antonio\Desktop\series\Backend\Project.Series.Backend\Project.Series.Constants\obj\Debug\Project.Series.Constants.csproj.CoreCompileInputs.cache
+D:\Users\Antonio\Desktop\series\Backend\Project.Series.Backend\Project.Series.Constants\obj\Debug\Project.Series.Constants.dll
+D:\Users\Antonio\Desktop\series\Backend\Project.Series.Backend\Project.Series.Constants\obj\Debug\Project.Series.Constants.pdb
+D:\Users\Antonio\Desktop\series\Backend\Project.Series.Backend\Project.Series.Constants\obj\Debug\Project.Series.Constants.csprojResolveAssemblyReference.cache
